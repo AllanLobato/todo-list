@@ -1,5 +1,5 @@
 <h1 align="center">
-     Ignite-Feed
+     ToDo-List
 </h1>
 
 <p align="center">Aplicação desenvolvida para simular um ToDo List para a practica dos conceitos fundamentais do React JS.<p>
